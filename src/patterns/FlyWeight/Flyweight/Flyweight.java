@@ -1,9 +1,9 @@
-package patterns.FlyWeight.Flyweight.SimpleStorage;
+package patterns.FlyWeight.Flyweight;
 
 import patterns.FlyWeight.ShopTVs.Shop;
 
 public class Flyweight {
-    static void SimpleStorageFlyweight(){
+   public static void simpleStorageFlyweight(){
         Shop.main(null);
     }
 

@@ -1,6 +1,10 @@
 package patterns;
 
-public interface Bridge {}
+public class Bridge {
+    public static void main(String[] args) {
+//        Computer-->OS структура
+    }
+}
 
 abstract class Computer{
     OS currentOS;

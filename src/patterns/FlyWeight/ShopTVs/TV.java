@@ -41,10 +41,6 @@ public abstract class TV {
         bonusChannels = true;
     }
 
-    private void switchBonus(boolean val) {
-        bonusChannels = val;
-    }
-
     public boolean isBonusChannels() {
         return bonusChannels;
     }
